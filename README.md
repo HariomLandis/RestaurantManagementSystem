@@ -21,7 +21,7 @@
 #### Features:
 - Customer will be able to add or remove/add order from the cart.
 - After placing the order costomer can cancel the order.
-- - Once the order is received, Kitchen master will be able to acknowledge it by clicking on serving.
+- Once the order is received, Kitchen master will be able to acknowledge it by clicking on serving.
 - Admin can remove/add the dishes, also admin will be able to add/remove kitchen/supervisor.
 - For any help customer will raise a ticket for help, supervisor will get a notification and acknowledge.
 #### To-Do
